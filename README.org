@@ -4,7 +4,7 @@ This is just a simple Go application that provides a CLI for [[https://pokeapi.c
 
 This program was created while following along with the course on [[https://www.boot.dev/u/maker2413][Boot.dev]].
 
-To run the game you will need to do the following:
+To run the Pokedex you will need to do the following:
 #+begin_src shell
   go run .
 #+end_src
